@@ -1,204 +1,22 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad Yusr&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=[Your role]%20at%20[Your company]&descAlign=50&descAlignY=51&descSize=16"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Just programming features until it's usable;[Your motto]" alt="Typing Animation"/>
-  
-</div>
-
----
-
-<div align="center">
-
-## 🎯 WHO AM I?
-
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</td>
-<td>
-
-```yaml
-name: Muhammad Yusr
-located_in: Doha, Qatar
-current_company: [Your company]
-current_role: [Your role]
-education: [Your education]
-website: [Your website]
-
-currently_learning: C, PyQt5
-2024_goal: Lead AI projects
-hobbies: 3D Renders and Sketching
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 TECH STACK & TOOLS
-
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,figma,pandas,numpy,github,git,vscode,discord)](https://skillicons.dev)&perline=8" />
-
-<br/><br/>
-
-<!-- Programming Languages -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Yusr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GITHUB ANALYTICS
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Yusr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Yusr&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Yusr&custom_title=Muhammad Yusr's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Yusr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
-
-### 🎨 Reading Progress Tracker
-
-[Your projectDescription1]
-
-**Tech Stack:** `Python, PyQt5`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([Your projectLink1])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 CURRENT FOCUS
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-```mermaid
-graph LR
-    A[🔭 Currently Working On] --> B[Reading Progress Tracker]
-    C[🌱 Learning] --> D[C, PyQt5]
-    E[💬 Ask Me About] --> F[[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)]
-    G[⚡ Fun Fact] --> H[[Your funFact]]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION GRAPH
-
-<img src="https://raw.githubusercontent.com/Muhammad-Yusr/Muhammad-Yusr/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT WITH ME
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your website])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[Your instagramUsername])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[Your youtubeChannel])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadyusr9@gmail.com)
-
-### 💬 Let's Talk About:
-- 🔥 Web Development & Modern Frameworks
-- 🤖 AI/ML & Data Science
-- 🎨 UI/UX Design Principles
-- 🚀 Startup Ideas & Innovation
-- 📚 Tech Books & Learning Resources
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 WEEKLY DEVELOPMENT BREAKDOWN
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 SPOTIFY PLAYING
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Yusr&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-### Thanks for visiting! Have a great day! ✨
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+# 💫 About Me:
+🔭 I’m currently working on Reading Progress Tracker with Python and PyQt5<br>🌱 I’m currently learning C and PyQt5
 
-</div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammed.yusr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhammad-yusr) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Yusr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Yusr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Yusr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Yusr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Muhammad-Yusr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
