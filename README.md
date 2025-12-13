@@ -106,50 +106,6 @@ hobbies: 3D Renders and Sketching
 [![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
 
 </td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-### 🚀 [Your projectName2]
-
-[Your projectDescription2]
-
-**Tech Stack:** `[Your projectStack2]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)]([Your projectLink2])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo2])
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
-
-### 🔥 [Your projectName3]
-
-[Your projectDescription3]
-
-**Tech Stack:** `[Your projectStack3]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=heroku)]([Your projectLink3])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo3])
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-
-### ⚡ [Your projectName4]
-
-[Your projectDescription4]
-
-**Tech Stack:** `[Your projectStack4]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=firebase)]([Your projectLink4])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo4])
-
-</td>
 </tr>
 </table>
 
