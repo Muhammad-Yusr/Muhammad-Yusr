@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
 # 💫 About Me:
-🔭 I’m currently working on Reading Progress Tracker with Python and PyQt5<br>🌱 I’m currently learning C and PyQt5
+🔭 I’m currently working on a 'Reading Progress Tracker' with Python and PyQt5<br>🌱 I’m currently learning C and PyQt5
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammed.yusr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhammad-yusr) 
